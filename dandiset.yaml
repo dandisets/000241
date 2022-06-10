@@ -2,6 +2,7 @@
 # It can be edited online at https://dandiarchive.org/dandiset/000241
 # and obtained from the dandiarchive.
 '@context': https://raw.githubusercontent.com/dandi/schema/master/releases/0.6.2/context.json
+about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
@@ -21,13 +22,21 @@ contributor:
   schemaKey: Person
 dateCreated: '2022-04-22T21:04:21.992147+00:00'
 description: Converting various image types to zarr and ngff for testing
+ethicsApproval: []
 id: DANDI:000241/draft
 identifier: DANDI:000241
+keywords: []
+license:
+- spdx:CC0-1.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000241/versions/draft/assets/
 name: ngff testing
+protocol: []
+relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.2
+studyTarget: []
 url: https://dandiarchive.org/dandiset/000241/draft
 version: draft
+wasGeneratedBy: []
